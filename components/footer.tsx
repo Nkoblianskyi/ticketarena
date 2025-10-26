@@ -93,17 +93,13 @@ export function Footer() {
                   Cookie-Richtlinie
                 </Link>
               </li>
-              <li>
-                <Link href="/agb" className="text-muted-foreground hover:text-secondary transition-colors">
-                  AGB
-                </Link>
-              </li>
+
             </ul>
           </div>
         </div>
 
         <div className="mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} TicketArena. Alle Rechte vorbehalten.</p>
+          <p>&copy; {new Date().getFullYear()} ticketarenade.com. Alle Rechte vorbehalten.</p>
         </div>
       </div>
     </footer>
