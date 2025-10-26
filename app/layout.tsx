@@ -13,7 +13,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "TicketArena - Tickets für Sportveranstaltungen",
   description: "Finden Sie die besten Tickets für Fußball, Tennis, Basketball und mehr",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
