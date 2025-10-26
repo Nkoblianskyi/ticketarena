@@ -81,7 +81,7 @@ export default function DatenschutzPage() {
           <p className="text-muted-foreground mb-4">
             Telefon: +49 89 7264 3891
             <br />
-            E-Mail: info@ticketarena.com
+            E-Mail: info@ticketarenade.com
           </p>
 
           <h3 className="text-xl font-bold mb-3 mt-6">Speicherdauer</h3>
@@ -120,9 +120,9 @@ export default function DatenschutzPage() {
           <div className="bg-muted p-6 rounded-lg mt-8">
             <p className="text-sm text-muted-foreground">
               Bei Fragen zum Datenschutz kontaktieren Sie uns bitte unter:{" "}
-              <Link href="mailto:datenschutz@ticketarena.com" className="text-secondary hover:underline">
-                datenschutz@ticketarena.com
-              </Link>
+              <p className="text-secondary hover:underline">
+                datenschutz@ticketarenade.com
+              </p>
             </p>
           </div>
         </div>

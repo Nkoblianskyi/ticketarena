@@ -32,7 +32,7 @@ export default function AGBPage() {
             <br />
             Deutschland
             <br />
-            E-Mail: info@ticketarena.com
+            E-Mail: info@ticketarenade.com
             <br />
             Telefon: +49 89 7264 3891
           </p>
@@ -117,9 +117,9 @@ export default function AGBPage() {
           <div className="bg-muted p-6 rounded-lg mt-8">
             <p className="text-sm text-muted-foreground">
               Bei Fragen zu unseren AGB kontaktieren Sie uns bitte unter:{" "}
-              <Link href="mailto:info@ticketarena.com" className="text-secondary hover:underline">
-                info@ticketarena.com
-              </Link>
+              <p className="text-secondary hover:underline">
+                info@ticketarenade.com
+              </p>
             </p>
           </div>
         </div>

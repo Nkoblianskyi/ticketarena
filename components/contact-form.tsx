@@ -162,7 +162,7 @@ export function ContactForm({ defaultSport, defaultEvent }: ContactFormProps) {
           <div className="bg-muted rounded-lg p-4 mt-4">
             <p className="text-sm text-center text-muted-foreground mb-2">Sie können uns auch direkt kontaktieren:</p>
             <p className="text-center font-bold text-secondary">+49 89 7264 3891</p>
-            <p className="text-center text-sm text-muted-foreground mt-1">info@ticketarena.com</p>
+            <p className="text-center text-sm text-muted-foreground mt-1">info@ticketarenade.com</p>
           </div>
           <Button
             onClick={() => setShowSuccessDialog(false)}
